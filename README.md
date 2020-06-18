@@ -5,6 +5,7 @@ Generalidades
 RAMON es un programa desarrollado en Python versión 3.X, el cuál se compone de dos aplicaciones:
 
 •	RAMON_endpoint. Agente liviano con la capacidad de consultar información del sistema operativo Linux Ubuntu y resguardarla en un archivo con extensión.csv. Este programa viene con un script en BASH para que se ejecute automáticamente RAMON_endpoint una vez al día.
+
 •	RAMON_API. Aplicación con la capacidad de recopilar la información generada por los agentes y centralizarla en un archivo ya sea de tipo .csv o formato JSON, adicionalmente la aplicación esta en capacidad de guardar la información en una base de datos mySQL.
 
 Requerimientos
