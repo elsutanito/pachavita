@@ -1,5 +1,6 @@
 # RAMON
 DESCRIPCION
+
 Generalidades
 
 RAMON es un programa desarrollado en Python versión 3.X, el cuál se compone de dos aplicaciones:
