@@ -80,6 +80,6 @@ a.	<IP de servidor>_<AAAA-MM-DD>.csv
 7.	Para la extracción del archivo que contiene toda la información de los servidores, ejecute:
 a.	Python3 RAMON_API.py
 8.	En la carpeta que esta ubicado se generaran los siguientes archivos:
-a.	Resultados.csv
-b.	Resultados.json
-9.	La aplicación también envía la información a una base de datos SQL
+a.	consolidado.csv
+b.	consolidad.json
+9.	
