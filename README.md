@@ -25,8 +25,7 @@ Tabla 2 Requerimientos RAMON_API
 HARDWARE	SOFTWARE
 2 GHz dual core processor	Python reléase 3.x 
 4 GiB RAM (system memory)	Sistema operativo Linux Ubuntu
-25 GB of hard-drive space	Base de datos SQL 
-	Libreria (ftplib, pandas, csv, json)
+25 GB of hard-drive space	Libreria (ftplib, pandas, csv, json)
 
 INSTALACIÓN
 
